@@ -1,0 +1,4 @@
+.env
+node_modules
+bot-state.json
+service-account.json

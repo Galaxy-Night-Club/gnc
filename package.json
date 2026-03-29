@@ -1,0 +1,14 @@
+{
+  "name": "galaxy-discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "\"C:\\Program Files\\nodejs\\node.exe\" bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^13.0.2"
+  }
+}
